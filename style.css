@@ -6,3 +6,10 @@
     flex-direction:column;
     margin:0 auto;
 }
+
+#submit-btn{
+    background-color:beige;
+    padding:10px;
+    margin:5px;
+    border-radius: 8px;
+}
